@@ -25,7 +25,7 @@ project "glfw_dx"
 
 	-- Source definitions
 	files {
-		"./glfw/src/*.c"
+		"./src/*.c"
 	}
 	
 	links {}

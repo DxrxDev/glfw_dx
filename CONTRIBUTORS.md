@@ -5,6 +5,7 @@ skills.  This list only includes contributions to the main repository and
 excludes other invaluable contributions like language bindings and text and
 video tutorials.
 
+ - DxrxDev :)
  - Bobyshev Alexander
  - Laurent Aphecetche
  - Matt Arsenault
